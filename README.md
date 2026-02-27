@@ -45,11 +45,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=user14923929&show_icons=true&theme=tokyonight" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user14923929&layout=compact&theme=tokyonight" />
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" />
 </p>
 
 ---
