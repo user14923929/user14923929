@@ -4,6 +4,9 @@
   💻 Open-Source Enthusiast • 🚀 Creative Builder • 🌱 Lifelong Learner
 </p>
 
+<div id="my-banner"></div>
+<script src="https://keepandroidopen.org/banner.js?lang=en&size=mini&id=my-banner"></script>
+
 ---
 
 ## 🧠 About Me
